@@ -1,4 +1,4 @@
-## Oi! João Victor Paes Barreto 🤙
+## Olá! Eu sou João Victor Paes Barreto. 🙂💻
 <a href="https://github.com/Joao-paes-oficial">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-paes-oficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-paes-oficial&layout=compact&langs_count=8&theme=dracula"/>
