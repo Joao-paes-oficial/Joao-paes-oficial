@@ -14,9 +14,13 @@ Meu nome é João Victor Paes Barreto. Eu sou um apaixonado por programação ba
 * NOTA: Os principais idiomas não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/Joao-paes-oficial">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joao-paes-oficial&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-paes-oficial&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Joao-paes-oficial&show_icons=true&include_all_commits=true&theme=algolia" alt="Joao's github stats" />
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-paes-oficial&layout=compact&theme=algolia" />
+</a>
  
   ##
   
